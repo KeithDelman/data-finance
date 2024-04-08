@@ -25,10 +25,10 @@ const Footer = () => {
                 <div>
                     <h6 className='font-medium text-gray-400'>Solutions</h6>
                     <ul>
-                        <li className='py-2 text-sm'>Analytics</li>
-                        <li className='py-2 text-sm'>Marketing</li>
-                        <li className='py-2 text-sm'>Commerce</li>
-                        <li className='py-2 text-sm'>Insites</li>
+                        <li className='py-2 text-sm cursor-pointer'>Analytics</li>
+                        <li className='py-2 text-sm cursor-pointer'>Marketing</li>
+                        <li className='py-2 text-sm cursor-pointer'>Commerce</li>
+                        <li className='py-2 text-sm cursor-pointer'>Insites</li>
                     </ul>
                 </div>
                 <div>
